@@ -1,4 +1,4 @@
-pwd=document.getElementById("pwd");
+var pwd=document.getElementById("pwd");
 var username=document.getElementById("usrnm");
 function CheckPassword() 
 { 
